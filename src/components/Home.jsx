@@ -1,16 +1,22 @@
+import { useState } from "react";
+
 const Home = () => {
-  const handleClick = (e) => {
-    console.log("hello, Dastan", e.target);
+  // useState() helps us to make reactive value
+  const [name, setName] = useState("Dastan");
+  const [age, setAge] = useState(19);
+
+  const changeName = (value) => {
+    setName("Alish");
+    setAge(20);
   };
 
-  const handleClickAgain = (name, e) => {
-    console.log(`Hello, ${name}`, e);
-  };
   return (
     <div className="home">
       <h2>Homepage</h2>
-      <button onClick={handleClick}>Click me</button>
-      <button onClick={(e) => handleClickAgain("Alish", e)}>Click me again</button>
+      <p>
+        {name} is {age} years old!
+      </p>
+      <button onClick={changeName}>Click me</button>
     </div>
   );
 };
