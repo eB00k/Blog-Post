@@ -57,3 +57,19 @@
   color: #f1356d;
   margin-bottom: 8px;
 }
+
+.blog-preview .delete-blog {
+  margin-top: 8px;
+  background-color: transparent;
+  border: 2px solid #f1356d;
+  padding: 4px 12px;
+  border-radius: 6px;
+  color: #f1356d;
+  font-weight: 500;
+}
+
+.blog-preview .delete-blog:active{
+ background-color: #f1356da3;
+ border: 2px solid #f1356da3;
+ color: white;
+}
