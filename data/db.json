@@ -1,0 +1,22 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "The Importance of Sleep",
+      "body": "Getting enough sleep is critical for our health and well-being. Without proper sleep, we can experience a range of negative side effects, including fatigue, decreased cognitive function, and mood swings. If you're having trouble sleeping, try establishing a consistent bedtime routine and creating a calming sleep environment.",
+      "author": "Jane Doe"
+    },
+    {
+      "id": 2,
+      "title": "10 Tips for a Productive Workday",
+      "body": "If you want to get more done during the workday, there are several strategies you can try. Some of these include setting clear goals for yourself, prioritizing your tasks, minimizing distractions, and taking breaks throughout the day. By implementing these tips, you can increase your productivity and feel more accomplished at the end of each workday.",
+      "author": "John Smith"
+    },
+    {
+      "id": 3,
+      "title": "Why You Should Travel Alone",
+      "body": "Traveling alone can be a transformative experience that allows you to challenge yourself and step outside of your comfort zone. When you travel alone, you have the freedom to explore at your own pace and connect with locals in a way that might not be possible when traveling with others. Plus, it can be a great way to build confidence and self-reliance.",
+      "author": "Sarah Lee"
+    }
+  ]
+}
