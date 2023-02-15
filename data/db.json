@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "id": 1,
-      "title": "The Importance of Sleep",
-      "body": "Getting enough sleep is critical for our health and well-being. Without proper sleep, we can experience a range of negative side effects, including fatigue, decreased cognitive function, and mood swings. If you're having trouble sleeping, try establishing a consistent bedtime routine and creating a calming sleep environment.",
-      "author": "Jane Doe"
-    },
-    {
       "id": 2,
       "title": "10 Tips for a Productive Workday",
       "body": "If you want to get more done during the workday, there are several strategies you can try. Some of these include setting clear goals for yourself, prioritizing your tasks, minimizing distractions, and taking breaks throughout the day. By implementing these tips, you can increase your productivity and feel more accomplished at the end of each workday.",
@@ -35,12 +29,6 @@
       "body": "Your thoughts have a powerful impact on your life. By focusing on positive thoughts and visualizing success, you can change your mindset and attract more positivity into your life. It's not about ignoring the negative, but rather, choosing to see the good in every situation. When you believe in yourself and your abilities, anything is possible. Start small by replacing negative self-talk with positive affirmations, and watch as your life begins to transform.",
       "author": "Alish",
       "id": 6
-    },
-    {
-      "title": "The Benefits of Meditation",
-      "body": "Meditation is a simple yet powerful technique that can help you reduce stress, improve concentration, and cultivate inner peace. By focusing your attention on your breath and clearing your mind of distractions, you can enter a state of deep relaxation and improve your overall well-being. Regular meditation practice has been linked to lower levels of anxiety, better sleep quality, and increased feelings of happiness and contentment. If you're new to meditation, start with just a few minutes each day and gradually increase your practice over time. With consistency and dedication, you'll soon begin to experience the many benefits of this ancient practice.",
-      "author": "Alish",
-      "id": 7
     },
     {
       "title": "How to Overcome Procrastination",
