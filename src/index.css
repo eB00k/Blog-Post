@@ -126,6 +126,10 @@
   display: block;
 }
 
+.create textarea {
+  height: 100px;
+}
+
 .create button {
   background-color: #f1356d;
   color: #fff;
